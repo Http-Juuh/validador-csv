@@ -1,0 +1,36 @@
+{
+  "valido": false,
+  "registros": 3,
+  "erros": [
+    {
+      "linha": 2,
+      "campo": "data",
+      "regra": "data_iso_invalida"
+    },
+    {
+      "linha": 3,
+      "campo": "pedido_id",
+      "regra": "duplicado"
+    },
+    {
+      "linha": 3,
+      "campo": "valor",
+      "regra": "valor_monetario_invalido"
+    },
+    {
+      "linha": 3,
+      "campo": "status",
+      "regra": "categoria_invalida"
+    },
+    {
+      "linha": 4,
+      "campo": "data",
+      "regra": "obrigatorio"
+    },
+    {
+      "linha": 4,
+      "campo": "valor",
+      "regra": "valor_monetario_invalido"
+    }
+  ]
+}

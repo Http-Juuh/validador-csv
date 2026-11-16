@@ -1,0 +1,4 @@
+pedido_id,data,valor,status
+1,2025-02-30,150.50,concluido
+1,2025-01-11,-10.00,desconhecido
+3,,NaN,pendente
